@@ -16,9 +16,9 @@ Le programme analyse les réponses des élèves à un questionnaire de 4 questio
 L'élève est affecté à la maison où il a obtenu son meilleur score.
 
 ##  Contenu technique
-  * **`SAE_Anass Fathi_Anis Rocher_v2.ipynb`** : Notebook contenant le code principal, les calculs de statistiques et la comparaison avec une méthode de répartition aléatoire[cite: 345].
-  * **`questionnaire_premiere_annee.txt`** : Données d'entrée des élèves[cite: 330].
-  * **`affectation_premiere_annee.json`** : Données de référence du Choixpeau pour calculer le taux d'erreur[cite: 332].
+  * **`SAE_Anass Fathi_Anis Rocher_v2.ipynb`** : Notebook contenant le code principal, les calculs de statistiques et la comparaison avec une méthode de répartition aléatoire.
+  * **`questionnaire_premiere_annee.txt`** : Données d'entrée des élèves.
+  * **`affectation_premiere_annee.json`** : Données de référence du Choixpeau pour calculer le taux d'erreur.
 
 ##  Évaluation et Qualité
 Conformément aux attendus:
